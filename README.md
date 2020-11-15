@@ -1,11 +1,11 @@
 # Tools
 Just a list of tools :)
 
-# OSINT
+### OSINT
 
 https://github.com/tracelabs/awesome-osint
 
-# Red-teaming
+### Red-teaming
 
 https://github.com/its-a-feature/Mythic/
 
