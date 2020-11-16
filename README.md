@@ -6,6 +6,7 @@ Just a list of tools :)
 https://github.com/tracelabs/awesome-osint
 
 ### Red-teaming
+https://www.ired.team/
 
 https://github.com/its-a-feature/Mythic/
 
