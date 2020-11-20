@@ -1,13 +1,16 @@
 # Tools For Pentesting, Programming, and Labbing Resources :+1:
 
 
+
+
 ## Youtubers
 - [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
 - [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
 - [TheCyberMentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
 
 
-//-----------//
+
+
 ## Books For Reading
   **-** **Penetration Testing: A Hands-On Introduction to Hacking:** [amazon.com](https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641/ref=pd_ybh_a_49?_encoding=UTF8&psc=1&refRID=C6BQV1Y5GRRQH4KW6Z3B)
 
@@ -20,6 +23,8 @@ Linux Basics for Hackers: https://amzn.to/34WvcXP
 Python Crash Course, 2nd Edition: https://amzn.to/30gINu0
 Violent Python: https://amzn.to/2QoGoJn
 Black Hat Python: https://amzn.to/2V9GpQk
+
+
 
 
 ## Game Exploiting / Reverse Enginnering
@@ -36,7 +41,8 @@ Black Hat Python: https://amzn.to/2V9GpQk
 - [Game Hacking: Developing Autonomous Bots for Online Games](https://www.amazon.com/Game-Hacking-Developing-Autonomous-Online/dp/1593276699)
 
 
-//-----------//
+
+
 ## Links To Other Resources 
 
 ### OSINT
