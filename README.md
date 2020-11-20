@@ -15,6 +15,8 @@ Python Crash Course, 2nd Edition: https://amzn.to/30gINu0
 Violent Python: https://amzn.to/2QoGoJn
 Black Hat Python: https://amzn.to/2V9GpQk
 
+## Links To Other Resources 
+
 ### OSINT
 
 
