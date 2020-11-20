@@ -1,7 +1,7 @@
 # Tools For Pentesting, Programming, and Labbing Resources :+1:
 
 ## Youtubers
-> Theres a lot of great youtubers out there but .
+> Theres a lot of great youtubers out there but here are my favorites.
 - [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
 - [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
 - [TheCyberMentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
@@ -32,8 +32,9 @@ Black Hat Python: https://amzn.to/2V9GpQk
 - https://www.unknowncheats.me/forum/index.php
 
 - https://guidedhacking.com/ 
+* He also has a youtube channel too: [Link](https://www.youtube.com/user/L4DL4D2EUROPE)
 
-## Books:
+### Books:
 - [Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901/ref=pd_bxgy_img_2/137-3189832-5959550?_encoding=UTF8&pd_rd_i=1593272901&pd_rd_r=91b032d7-346e-4730-8385-c66e5f4b525c&pd_rd_w=kFrUd&pd_rd_wg=qR8nn&pf_rd_p=f325d01c-4658-4593-be83-3e12ca663f0e&pf_rd_r=8WJBTQG7KRKEB0ETJR45&psc=1&refRID=8WJBTQG7KRKEB0ETJR45)
 - [Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation](https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315/ref=pd_bxgy_img_2/137-3189832-5959550?_encoding=UTF8&pd_rd_i=1118787315&pd_rd_r=4bbf7fc5-5530-40df-aafb-0e30bae0013a&pd_rd_w=eMCSm&pd_rd_wg=0DKoy&pf_rd_p=f325d01c-4658-4593-be83-3e12ca663f0e&pf_rd_r=HS6377BSJ9M9DBZ06EPW&psc=1&refRID=HS6377BSJ9M9DBZ06EPW)
 - [Practical Binary Analysis: Build Your Own Linux Tools for Binary Instrumentation, Analysis, and Disassembly](https://www.amazon.com/Practical-Binary-Analysis-Instrumentation-Disassembly/dp/1593279124/ref=pd_bxgy_img_3/137-3189832-5959550?_encoding=UTF8&pd_rd_i=1593279124&pd_rd_r=4bbf7fc5-5530-40df-aafb-0e30bae0013a&pd_rd_w=eMCSm&pd_rd_wg=0DKoy&pf_rd_p=f325d01c-4658-4593-be83-3e12ca663f0e&pf_rd_r=HS6377BSJ9M9DBZ06EPW&psc=1&refRID=HS6377BSJ9M9DBZ06EPW)
