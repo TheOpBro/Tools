@@ -1,6 +1,6 @@
 # Tools For Pentesting, Programming, and Labbing Resources :+1:
 
-> Youtubers
+## Youtubers
 - [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
 - [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
 - [TheCyberMentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
@@ -26,7 +26,8 @@ Black Hat Python: https://amzn.to/2V9GpQk
 
 ### Websites: 
 - https://www.unknowncheats.me/forum/index.php
-
+ _ d
+  _ A
 - https://guidedhacking.com/ 
 
 ## Books:
