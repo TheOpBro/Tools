@@ -19,10 +19,18 @@ Hacking: The Art of Exploitation: https://amzn.to/2VchDyL
 The Web Application Hacker's Handbook: https://amzn.to/30Fj21S
 Real-World Bug Hunting: A Field Guide to Web Hacking: https://amzn.to/2V9srOe
 Social Engineering: The Science of Human Hacking: https://amzn.to/31HAmVx
-Linux Basics for Hackers: https://amzn.to/34WvcXP
-Python Crash Course, 2nd Edition: https://amzn.to/30gINu0
-Violent Python: https://amzn.to/2QoGoJn
-Black Hat Python: https://amzn.to/2V9GpQk
+
+Linux:
+  **-** **Python Crash Course, 2nd Edition:** [amazon.com](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280/ref=sr_1_2?dchild=1&keywords=Python+Crash+Course%2C+2nd+Edition%3A&qid=1605850057&s=books&sr=1-2)
+ 
+  **-** **Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali** [amazon.com](https://www.amazon.com/Linux-Basics-Hackers-Networking-Scripting/dp/1593278551)
+
+Python
+  **-** **Python Crash Course, 2nd Edition:** [amazon.com](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280/ref=sr_1_3?dchild=1&keywords=Python+Crash+Course&qid=1605849934&s=books&sr=1-3)
+
+  **-** **Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers: ** [amazon.com](https://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579/ref=sr_1_3?dchild=1&keywords=Violent+Python&qid=1605849860&s=books&sr=1-3)
+
+  **-** **Black Hat Python:** [amazon.com](https://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900/ref=sr_1_2?dchild=1&keywords=black+hat+programming&qid=1605849836&s=books&sr=1-2)
 
 
 **// ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~ //**
