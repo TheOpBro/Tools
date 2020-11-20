@@ -27,7 +27,7 @@ Social Engineering: The Science of Human Hacking: https://amzn.to/31HAmVx
 
   **-** **Python Crash Course, 2nd Edition:** [amazon.com](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280/ref=sr_1_3?dchild=1&keywords=Python+Crash+Course&qid=1605849934&s=books&sr=1-3)
 
-  **-** **Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers: ** [amazon.com](https://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579/ref=sr_1_3?dchild=1&keywords=Violent+Python&qid=1605849860&s=books&sr=1-3)
+  **-** **Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers:**[amazon.com](https://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579/ref=sr_1_3?dchild=1&keywords=Violent+Python&qid=1605849860&s=books&sr=1-3)
 
   **-** **Black Hat Python:** [amazon.com](https://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900/ref=sr_1_2?dchild=1&keywords=black+hat+programming&qid=1605849836&s=books&sr=1-2)
 
