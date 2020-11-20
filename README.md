@@ -1,7 +1,7 @@
 # Tools For Pentesting, Programming, and Labbing Resources :+1:
 
 ## Youtubers
-> There are a lot of great youtubers.
+> Theres a lot of great youtubers out there but .
 - [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
 - [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
 - [TheCyberMentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
