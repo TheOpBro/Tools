@@ -1,4 +1,4 @@
-# Tools
+# Tools For Pentesting, Programming, and Labbing Resources
 Just a list of tools and other  :)
 
 ## Youtubers
@@ -36,5 +36,17 @@ https://github.com/its-a-feature/Mythic/
 https://github.com/MythicAgents/Apollo
 
 https://github.com/thejoker3000/ShellGen
+
+### Other
+https://github.com/public-apis/public-apis
+
+https://github.com/lavie/Awesome-APIs
+
+https://github.com/trananhkma/fucking-awesome-python
+
+
+
+
+
 
 
