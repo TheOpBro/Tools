@@ -24,8 +24,8 @@ Black Hat Python: https://amzn.to/2V9GpQk
 ## Game Exploiting
 - https://www.unknowncheats.me/forum/index.php
 
-- https://www.google.com/search?q=guided+hacking&oq=guided+hacking&aqs=chrome.0.69i59j69i65l3j69i60l3.9070j0j4&sourceid=chrome&ie=UTF-8
-   _ Test
+- https://guidedhacking.com/
+_ test 
 
 
 ## Links To Other Resources 
