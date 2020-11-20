@@ -1,10 +1,14 @@
 # Tools For Pentesting, Programming, and Labbing Resources :+1:
 
 ## Youtubers
+> There are a lot of great youtubers.
 - [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
 - [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
 - [TheCyberMentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
-
+- [John Hammond](https://www.youtube.com/user/RootOfTheNull)
+- [LiveOverFlow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+- [I.T Security Labs](https://www.youtube.com/channel/UCXPdZsu8g1nKerd-o5A75vA)
+- [NetworkChuck](https://www.youtube.com/user/NetworkChuck)
 
 **// ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~ //**
 ## Books For Reading
@@ -26,8 +30,7 @@ Black Hat Python: https://amzn.to/2V9GpQk
 
 ### Websites: 
 - https://www.unknowncheats.me/forum/index.php
- _ d
-  _ A
+
 - https://guidedhacking.com/ 
 
 ## Books:
