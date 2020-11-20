@@ -6,7 +6,7 @@
 - [TheCyberMentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
 
 
-## Books To Read
+## Books For Reading
   **-** **Penetration Testing: A Hands-On Introduction to Hacking:** [amazon.com](https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641/ref=pd_ybh_a_49?_encoding=UTF8&psc=1&refRID=C6BQV1Y5GRRQH4KW6Z3B)
 
   **-** **The Hacker Playbook 1&2&3:** [amazon.com](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1494932636/ref=sr_1_3?dchild=1&keywords=hackers+playbook&qid=1605845133&s=books&sr=1-3) | [amazon.com](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1512214566/ref=sr_1_4?dchild=1&keywords=hackers+playbook&qid=1605845133&s=books&sr=1-4) | [amazon.com](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759/ref=sr_1_2?dchild=1&keywords=hackers+playbook&qid=1605845133&s=books&sr=1-2)
@@ -19,6 +19,14 @@ Linux Basics for Hackers: https://amzn.to/34WvcXP
 Python Crash Course, 2nd Edition: https://amzn.to/30gINu0
 Violent Python: https://amzn.to/2QoGoJn
 Black Hat Python: https://amzn.to/2V9GpQk
+
+
+## Game Exploiting
+- https://www.unknowncheats.me/forum/index.php
+
+- https://www.google.com/search?q=guided+hacking&oq=guided+hacking&aqs=chrome.0.69i59j69i65l3j69i60l3.9070j0j4&sourceid=chrome&ie=UTF-8
+   _ Test
+
 
 ## Links To Other Resources 
 
