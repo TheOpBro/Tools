@@ -1,5 +1,7 @@
 # Tools For Pentesting, Programming, and Labbing Resources :+1:
 
+# General Pentesting:
+
 ## Youtubers
 - [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
 - [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
@@ -21,11 +23,12 @@ Violent Python: https://amzn.to/2QoGoJn
 Black Hat Python: https://amzn.to/2V9GpQk
 
 
-## Game Exploiting
+# Game Exploiting
+
+## Websites: 
 - https://www.unknowncheats.me/forum/index.php
 
-- https://guidedhacking.com/
-_ test 
+- https://guidedhacking.com/ 
 
 
 ## Links To Other Resources 
