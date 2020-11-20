@@ -2,7 +2,7 @@
 Just a list of tools :)
 
 ## Books To Read
-Penetration Testing: A Hands-On Introduction to Hacking: [amazon.com](https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641/ref=pd_ybh_a_49?_encoding=UTF8&psc=1&refRID=C6BQV1Y5GRRQH4KW6Z3B)
+**Penetration Testing: A Hands-On Introduction to Hacking:** [amazon.com](https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641/ref=pd_ybh_a_49?_encoding=UTF8&psc=1&refRID=C6BQV1Y5GRRQH4KW6Z3B)
 
 The Hacker Playbook 1&2&3: 
 
