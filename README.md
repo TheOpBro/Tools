@@ -1,6 +1,6 @@
 # Tools For Pentesting, Programming, and Labbing Resources :+1:
 
-# General Pentesting:
+## //~ ~ General Pentesting ~ ~//
 
 ## Youtubers
 - [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
